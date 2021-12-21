@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @magmcguire1 / Bluberry
-- 👀 I’m interested in Discord Py / Python scripting / VR & AR Development
+- 👀 I’m interested in Cyber Security / Discord Py / Python scripting / VR & AR Development
 - 🌱 I’m currently learning level design in UE4, Python scripting for games
 - 💞️ I’m looking to collaborate on Discord Py bots
 - 📫 How to reach me - magmcguire1@gmail.com
